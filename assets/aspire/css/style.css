@@ -1,0 +1,70 @@
+p {
+    color: #c2c2c2;
+}
+h3,
+h4 {
+    color: #8c8c8c;
+}
+.border-round {
+    background-color: #fefefe;
+    border-radius: 50px;
+    padding: 20px 10px 20px 10px;
+}
+.border-dashed2 {
+    border-width: 1px;
+    border-style: dashed;
+    border-spacing: 1px;
+    color: white;
+}
+.logo {
+    width: 100px;
+    height: auto;
+}
+.menu {
+    padding-top: 15px;
+    color: #fff;
+}
+.parallax {
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.p1 {
+    background-image: url('../img/classroom.jpg');
+}
+.icon {
+    display: block;
+    margin: 0 auto;
+    border-width: 5px;
+    border-color: white;
+    border-style: solid;
+    margin-top: -40px;
+    width: 80px;
+    height: 80px;
+    -moz-border-radius: 70px;
+    -webkit-border-radius: 70px;
+    border-radius: 70px;
+}
+.col-md-1,
+.col-md-2,
+.col-md-3,
+.col-md-4,
+.col-md-5,
+.col-md-6,
+.col-md-7,
+.col-md-8,
+.col-md-9. .col-md-10,
+.col-md-11,
+.col-md-12 {
+    word-wrap: break-word;
+}
+
+#email{
+    width: 50%;
+}
+
+#pwd{
+    width: 50%;
+}
